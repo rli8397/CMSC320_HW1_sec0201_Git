@@ -6,4 +6,14 @@ allows us to effective share code and have multiple people work on the same remo
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science can be applied to epidemiology. For example, data scientists can analyze COVID-19 case data to identify which regions had the highest infection rates, track how the disease spread over time, and help inform public health responses.
+Answer: Data science can be applied to epidemiology. For example, data scientists can analyze COVID-19 
+case data to identify which regions had the highest infection rates, track how the disease spread over time, 
+and help inform public health responses.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches by creating a merge commit that preserves the history of both branches, 
+resulting in a non-linear commit graph showing parallel development. Rebasing rewrites a branch by replaying 
+its commits on top of another branch’s latest commit, producing a linear history. Unlike merging, rebasing 
+does not preserve the original branch structure.
