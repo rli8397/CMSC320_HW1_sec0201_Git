@@ -17,3 +17,8 @@ Answer: Merging combines two branches by creating a merge commit that preserves 
 resulting in a non-linear commit graph showing parallel development. Rebasing rewrites a branch by replaying 
 its commits on top of another branch’s latest commit, producing a linear history. Unlike merging, rebasing 
 does not preserve the original branch structure.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking foward to getting to learn about a new area of computer science and I am also excited for 
+the many plans that I have with friends this semester.
