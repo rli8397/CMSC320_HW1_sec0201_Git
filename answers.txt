@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to epidemiology. For example, data scientists can analyze COVID-19 case data to identify which regions had the highest infection rates, track how the disease spread over time, and help inform public health responses.
